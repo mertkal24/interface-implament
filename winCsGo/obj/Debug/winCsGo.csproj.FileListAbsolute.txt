@@ -1,0 +1,10 @@
+C:\Users\Casper\Desktop\C# Eğitim\winCsGo\winCsGo\bin\Debug\winCsGo.exe.config
+C:\Users\Casper\Desktop\C# Eğitim\winCsGo\winCsGo\bin\Debug\winCsGo.exe
+C:\Users\Casper\Desktop\C# Eğitim\winCsGo\winCsGo\bin\Debug\winCsGo.pdb
+C:\Users\Casper\Desktop\C# Eğitim\winCsGo\winCsGo\obj\Debug\winCsGo.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\C# Eğitim\winCsGo\winCsGo\obj\Debug\winCsGo.Form1.resources
+C:\Users\Casper\Desktop\C# Eğitim\winCsGo\winCsGo\obj\Debug\winCsGo.Properties.Resources.resources
+C:\Users\Casper\Desktop\C# Eğitim\winCsGo\winCsGo\obj\Debug\winCsGo.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\C# Eğitim\winCsGo\winCsGo\obj\Debug\winCsGo.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\C# Eğitim\winCsGo\winCsGo\obj\Debug\winCsGo.exe
+C:\Users\Casper\Desktop\C# Eğitim\winCsGo\winCsGo\obj\Debug\winCsGo.pdb

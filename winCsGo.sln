@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winCsGo", "winCsGo\winCsGo.csproj", "{5CD29CC5-831B-486B-B259-58C9CF631660}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CD29CC5-831B-486B-B259-58C9CF631660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD29CC5-831B-486B-B259-58C9CF631660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD29CC5-831B-486B-B259-58C9CF631660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD29CC5-831B-486B-B259-58C9CF631660}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67EC436F-98DA-4456-BAFE-898215E3ADE3}
+	EndGlobalSection
+EndGlobal
